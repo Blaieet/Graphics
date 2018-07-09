@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/fshader1.glsl</file>
+        <file>resources/vshader1.glsl</file>
+        <file>resources/textures/earth1.png</file>
+        <file>resources/models/sphere0.obj</file>
+        <file>resources/models/sphere1.obj</file>
+        <file>resources/fphongShader.glsl</file>
+        <file>resources/vphongShader.glsl</file>
+        <file>resources/fphongShaderTex.glsl</file>
+        <file>resources/vphongShaderTex.glsl</file>
+        <file>resources/fshader1Goraud.glsl</file>
+        <file>resources/vshader1Goraud.glsl</file>
+        <file>resources/vshader1GoraudTex.glsl</file>
+        <file>resources/fshader1GoraudTex.glsl</file>
+        <file>resources/fToonShader.glsl</file>
+        <file>resources/vToonShader.glsl</file>
+        <file>resources/models/MonkeyTex.obj</file>
+        <file>resources/models/tree-toon.obj</file>
+        <file>resources/models/wooden-wall.obj</file>
+        <file>resources/models/Monkey.obj</file>
+        <file>resources/models/bigHero.obj</file>
+        <file>resources/textures/EyesWhite.jpg</file>
+        <file>resources/textures/head_diffuse.jpg</file>
+        <file>resources/textures/fusta.jpg</file>
+        <file>resources/textures/white.jpg</file>
+        <file>resources/textures/treeText.jpg</file>
+        <file>resources/textures/sunText.jpg</file>
+        <file>resources/models/basic_character.obj</file>
+        <file>resources/textures/ninot_resina.png</file>
+        <file>resources/models/cruiser.obj</file>
+        <file>resources/textures/nauText.jpg</file>
+    </qresource>
+</RCC>
